@@ -3,6 +3,7 @@ Welcome to my repository of various calculator programs.
 To Install Programs:
 
 1. Install TI-84 Connect CE
+
 Windows - https://education.ti.com/en/software/details/en/13312F7CEC074A2DAFD7EE5646129839/swticonnectcesoftwareforwindows
 
 Mac - https://education.ti.com/en/software/details/en/68CEDD34FDC94622B4DBD173E6A0D8C3/swticonnectcesoftwareformacintosh
